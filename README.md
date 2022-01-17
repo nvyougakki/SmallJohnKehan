@@ -5,6 +5,7 @@
 
 | 时间                | 签名             |                        头像                                  |
 | ------------------- | ---------------- | ------------------------------------------------------------ |
+| 2022-01-17 21:44:57 | 小约翰（加尔铁里版） | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/e925042c017e8bb0b3adc759fbdce442b96ff9e4.jpg) |
 | 2022-01-17 21:24:38 | 鸽麻了 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b7b626124d9efa7394b75ef3e8bf4fd7b183e468.jpg) |
 | 2022-01-17 17:02:52 | 鸽麻了 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/e11c4204bd1b5561eaa1bac185bb4c7a90f1669c.jpg) |
 | 2022-01-17 16:02:29 | 小约翰啊小约翰，你怎么能如此懒惰？ | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/e11c4204bd1b5561eaa1bac185bb4c7a90f1669c.jpg) |
