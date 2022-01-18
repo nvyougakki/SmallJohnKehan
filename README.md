@@ -5,6 +5,7 @@
 
 | 时间                | 签名             |                        头像                                  |
 | ------------------- | ---------------- | ------------------------------------------------------------ |
+| 2022-01-18 18:57:12 | 通辽双料特工加西亚 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/618f2da5fa32ee529efd210667260bbf131356fb.jpg) |
 | 2022-01-18 16:55:12 | 偷袭！（马式发音） | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/e925042c017e8bb0b3adc759fbdce442b96ff9e4.jpg) |
 | 2022-01-18 15:54:46 | 小约翰（加尔铁里版） | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/e925042c017e8bb0b3adc759fbdce442b96ff9e4.jpg) |
 | 2022-01-17 21:24:38 | 鸽麻了 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b7b626124d9efa7394b75ef3e8bf4fd7b183e468.jpg) |
