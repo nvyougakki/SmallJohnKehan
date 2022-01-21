@@ -5,6 +5,7 @@
 
 | 时间                | 签名             |                        头像                                  |
 | ------------------- | ---------------- | ------------------------------------------------------------ |
+| 2022-01-21 20:35:07 | 我鸽了 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/3406e2fa77c0da2d73dfc9f99620391cb4bea776.jpg) |
 | 2022-01-21 19:54:56 | 听完小策唱歌后，我看谁还说我敢唱 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/5529a05d08f2e16eee3233549a16cb853b809cf9.jpg) |
 | 2022-01-21 18:44:48 | 鸽宗会鸽吗？ | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/5529a05d08f2e16eee3233549a16cb853b809cf9.jpg) |
 | 2022-01-21 15:44:38 | 告白气球风吹到对街你有点难追 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/5529a05d08f2e16eee3233549a16cb853b809cf9.jpg) |
