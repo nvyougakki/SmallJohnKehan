@@ -5,6 +5,7 @@
 
 | 时间                | 签名             |                        头像                                  |
 | ------------------- | ---------------- | ------------------------------------------------------------ |
+| 2022-01-27 09:40:40 | 我本来想今天更一期，可是我这里网不好，所以这期鸽了。 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/d258a22642fb423b08f65a1ddb11f52045a332ca.jpg) |
 | 2022-01-25 20:44:37 | 我说约翰你说鸽，约翰—— | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6ad48159359c4ee4833bd86d439bc6d2e3804849.jpg) |
 | 2022-01-25 13:59:20 | 小年啦 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6ad48159359c4ee4833bd86d439bc6d2e3804849.jpg) |
 | 2022-01-25 08:22:40 | 布基纳法索总统被政变士兵扣押 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6ad48159359c4ee4833bd86d439bc6d2e3804849.jpg) |
