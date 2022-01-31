@@ -5,6 +5,7 @@
 
 | 时间                | 签名             |                        头像                                  |
 | ------------------- | ---------------- | ------------------------------------------------------------ |
+| 2022-01-31 21:07:06 | 新年快乐！ | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/649d44b8167ab36a3226121be80b157d51588f55.jpg) |
 | 2022-01-31 14:31:32 | 我怕大年三十晚上祝福太多，所以把年三十取消了。 ​​​ | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/649d44b8167ab36a3226121be80b157d51588f55.jpg) |
 | 2022-01-31 06:51:11 | 萨日朗萨日朗！ | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/649d44b8167ab36a3226121be80b157d51588f55.jpg) |
 | 2022-01-30 17:26:17 | 应该不会有人跟我抢金钱豹头像吧？不会吧不会吧？不会有人信这个吧？ | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/649d44b8167ab36a3226121be80b157d51588f55.jpg) |
