@@ -5,6 +5,7 @@
 
 | 时间                | 签名             |                        头像                                  |
 | ------------------- | ---------------- | ------------------------------------------------------------ |
+| 2022-02-01 17:47:59 | 春节了，奖励自己鸽几期 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/96e0ee233055f0f648bf8b452ff6dfb452404454.jpg) |
 | 2022-02-01 07:32:29 | 春节了，奖励自己鸽几期 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/649d44b8167ab36a3226121be80b157d51588f55.jpg) |
 | 2022-01-31 21:07:06 | 新年快乐！ | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/649d44b8167ab36a3226121be80b157d51588f55.jpg) |
 | 2022-01-31 14:31:32 | 我怕大年三十晚上祝福太多，所以把年三十取消了。 ​​​ | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/649d44b8167ab36a3226121be80b157d51588f55.jpg) |
