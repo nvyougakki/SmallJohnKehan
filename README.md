@@ -5,6 +5,7 @@
 
 | 时间                | 签名             |                        头像                                  |
 | ------------------- | ---------------- | ------------------------------------------------------------ |
+| 2022-02-04 22:45:27 | 这届开幕式真好呀 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/16373278822e9859597bc6cdb770ac5e5c6ab664.jpg) |
 | 2022-02-04 21:20:19 | 简直是通辽宇宙大阅兵呀 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/16373278822e9859597bc6cdb770ac5e5c6ab664.jpg) |
 | 2022-02-03 07:29:17 | 这次可是真要鸽了。 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/16373278822e9859597bc6cdb770ac5e5c6ab664.jpg) |
 | 2022-02-02 22:48:54 | 春节了，奖励自己鸽几期 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/16373278822e9859597bc6cdb770ac5e5c6ab664.jpg) |
