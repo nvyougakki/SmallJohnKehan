@@ -5,6 +5,7 @@
 
 | 时间                | 签名             |                        头像                                  |
 | ------------------- | ---------------- | ------------------------------------------------------------ |
+| 2022-02-06 10:51:38 | 鸽剧魅影 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/d599d2018173df3e6cee5c8f2113d3fe3edce72c.jpg) |
 | 2022-02-05 19:11:08 | 这鸽视频，是多么一件美事呀 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/16373278822e9859597bc6cdb770ac5e5c6ab664.jpg) |
 | 2022-02-04 22:45:27 | 这届开幕式真好呀 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/16373278822e9859597bc6cdb770ac5e5c6ab664.jpg) |
 | 2022-02-04 21:20:19 | 简直是通辽宇宙大阅兵呀 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/16373278822e9859597bc6cdb770ac5e5c6ab664.jpg) |
