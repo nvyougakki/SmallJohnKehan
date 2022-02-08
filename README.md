@@ -5,6 +5,7 @@
 
 | 时间                | 签名             |                        头像                                  |
 | ------------------- | ---------------- | ------------------------------------------------------------ |
+| 鸽呀！为什么不鸽！ <br>⏱ 2022-02-08 18:41:19 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fdd045d5f2404a6d0ed73484075a3f2560f1754c.jpg) |
 | 2022-02-08 18:13:46 | 鸽呀！为什么不鸽！ | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fdd045d5f2404a6d0ed73484075a3f2560f1754c.jpg) |
 | 2022-02-08 10:33:29 | 大年初八星期二，谁更谁才有点二。 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fdd045d5f2404a6d0ed73484075a3f2560f1754c.jpg) |
 | 2022-02-08 10:18:20 | 真正的up主总是深不鸽测 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fdd045d5f2404a6d0ed73484075a3f2560f1754c.jpg) |
