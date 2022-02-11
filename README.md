@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 爷哥朕幼坐天堂，永定圣贤永荣光。<br>天国万样鸽为首，太平一统天山江。<br>勤政便是逆天父，更新只得乱朝纲。<br>自今拖更鸽复鸽，天下群臣俱赞扬！ <br>⏱ 2022-02-12 07:34:53 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/9197cba71a1c2d6cf9a160e6d2769572383f8b86.jpg) |
 | 爷哥朕幼坐天堂，永定圣贤永荣光。<br>天国万样鸽为首，太平一统天山江。<br>勤政便是逆天父，更新只得乱朝纲。<br>自今拖更鸽复鸽，天下群臣俱赞扬！ <br>⏱ 2022-02-12 07:29:46 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/9197cba71a1c2d6cf9a160e6d2769572383f8b86.jpg) |
 | 爷哥朕幼坐天堂，永定圣贤永荣光。<br>天国万样鸽为首，太平一统天山江。<br>勤政便是逆天父，更新只得乱朝纲。<br>自今拖更鸽复鸽，天下群臣俱赞扬！ <br>⏱ 2022-02-12 07:24:39 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/9197cba71a1c2d6cf9a160e6d2769572383f8b86.jpg) |
 | 爷哥朕幼坐天堂，永定圣贤永荣光。<br>天国万样鸽为首，太平一统天山江。<br>勤政便是逆天父，更新只得乱朝纲。<br>自今拖更鸽复鸽，天下群臣俱赞扬！ <br>⏱ 2022-02-12 07:19:32 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/9197cba71a1c2d6cf9a160e6d2769572383f8b86.jpg) |
