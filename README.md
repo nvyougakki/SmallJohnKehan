@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 我鸽了这么久，就是为了等一个机会！ <br>⏱ 2022-02-24 13:25:25 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/c6a40039c25f319f6c3eb0f521efe43392d3f213.jpg) |
 | 这回不必再催更乌克兰了 <br>⏱ 2022-02-24 12:20:16 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/c6a40039c25f319f6c3eb0f521efe43392d3f213.jpg) |
 |  <br>⏱ 2022-02-24 08:15:01 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/c6a40039c25f319f6c3eb0f521efe43392d3f213.jpg) |
 | 通辽无道鼠当权，常鸽还想要三连。<br>不如随我反了去，高呼我主星野源！ <br>⏱ 2022-02-23 09:08:31 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/afa0e93fc062600235b72f4649531f021eadbd02.jpg) |
