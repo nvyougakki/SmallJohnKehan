@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 我需要休息 <br>⏱ 2022-02-25 11:11:14 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/140d01c48fc22dfdd86699d32a7707735d33610c.jpg) |
 | 我本来写好了乌克兰的稿子，既然他们打起来了，那我就不发了。 <br>⏱ 2022-02-24 20:35:38 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/140d01c48fc22dfdd86699d32a7707735d33610c.jpg) |
 | 我鸽了这么久，就是为了等一个机会！ <br>⏱ 2022-02-24 13:25:25 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/c6a40039c25f319f6c3eb0f521efe43392d3f213.jpg) |
 | 这回不必再催更乌克兰了 <br>⏱ 2022-02-24 12:20:16 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/c6a40039c25f319f6c3eb0f521efe43392d3f213.jpg) |
