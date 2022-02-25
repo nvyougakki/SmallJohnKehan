@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 大家都去关注新闻了，这几天我就先鸽了哈 <br>⏱ 2022-02-25 13:36:31 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/228dd1448ecf96fbffc56550a16792a51c956408.jpg) |
 |  <br>⏱ 2022-02-25 12:01:22 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/228dd1448ecf96fbffc56550a16792a51c956408.jpg) |
 | 我需要休息 <br>⏱ 2022-02-25 11:11:14 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/140d01c48fc22dfdd86699d32a7707735d33610c.jpg) |
 | 我本来写好了乌克兰的稿子，既然他们打起来了，那我就不发了。 <br>⏱ 2022-02-24 20:35:38 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/140d01c48fc22dfdd86699d32a7707735d33610c.jpg) |
