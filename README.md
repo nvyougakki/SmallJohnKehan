@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 我实在是太勤政了 <br>⏱ 2022-03-20 11:52:51 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/8efd84764f08eeb22863c37c852ae95f05826a57.jpg) |
 | 逃避可耻，但是有用 <br>⏱ 2022-03-20 10:42:18 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/8efd84764f08eeb22863c37c852ae95f05826a57.jpg) |
 | 我被诅咒了！我把一周三鸽说成了一周三更！误会了，都是误会 <br>⏱ 2022-03-20 09:51:48 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/8efd84764f08eeb22863c37c852ae95f05826a57.jpg) |
 | 小约翰说一周三更，那么如果今天不更，可能就会是明天更。如果明天不更呢？那可能就确实不更了。 <br>⏱ 2022-03-19 20:32:12 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/8efd84764f08eeb22863c37c852ae95f05826a57.jpg) |
