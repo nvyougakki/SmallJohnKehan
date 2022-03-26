@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 新麦克风效果没有那么好，下一次用旧麦吧 <br>⏱ 2022-03-26 12:53:44 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/91f1eafd4c7e135ad76f4dd26701fc90fbf91f3f.jpg) |
 | 新麦克风效果没有那么好，下一次用旧麦吧 <br>⏱ 2022-03-26 12:48:34 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/e1234d611ac67ec664a3f039be77a982de1d71a7.jpg) |
 | 新麦克风效果没有那么好，下一次用旧麦吧 <br>⏱ 2022-03-26 11:43:13 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/675fc4e7702fbee988ce52f77a123533ee35c7f1.jpg) |
 | 我梦见柏拉图托梦给我，让我把下一个歇后语安排给亚里士多德 <br>⏱ 2022-03-26 00:18:57 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/675fc4e7702fbee988ce52f77a123533ee35c7f1.jpg) |
