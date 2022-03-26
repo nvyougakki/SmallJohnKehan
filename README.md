@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 炒土豆丝，yyds <br>⏱ 2022-03-26 14:59:36 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/91f1eafd4c7e135ad76f4dd26701fc90fbf91f3f.jpg) |
 | 新麦克风效果没有那么好，下一次用旧麦吧 <br>⏱ 2022-03-26 12:53:44 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/91f1eafd4c7e135ad76f4dd26701fc90fbf91f3f.jpg) |
 | 新麦克风效果没有那么好，下一次用旧麦吧 <br>⏱ 2022-03-26 12:48:34 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/e1234d611ac67ec664a3f039be77a982de1d71a7.jpg) |
 | 新麦克风效果没有那么好，下一次用旧麦吧 <br>⏱ 2022-03-26 11:43:13 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/675fc4e7702fbee988ce52f77a123533ee35c7f1.jpg) |
