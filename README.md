@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 请叫我当代丘比特 <br>⏱ 2022-03-27 08:49:42 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/91f1eafd4c7e135ad76f4dd26701fc90fbf91f3f.jpg) |
 | 炒土豆丝，yyds <br>⏱ 2022-03-26 14:59:36 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/91f1eafd4c7e135ad76f4dd26701fc90fbf91f3f.jpg) |
 | 新麦克风效果没有那么好，下一次用旧麦吧 <br>⏱ 2022-03-26 12:53:44 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/91f1eafd4c7e135ad76f4dd26701fc90fbf91f3f.jpg) |
 | 新麦克风效果没有那么好，下一次用旧麦吧 <br>⏱ 2022-03-26 12:48:34 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/e1234d611ac67ec664a3f039be77a982de1d71a7.jpg) |
