@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 早起录音录了40分钟，正准备结束时，发现自己忘开麦了…… <br>⏱ 2022-03-30 09:09:54 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/832b6d3f3d21df03f1b93fd2946b5aaace7ccceb.jpg) |
 | 早起录音录了40分钟，正准备结束时，发现自己忘开麦了…… <br>⏱ 2022-03-30 09:04:42 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7074388399a7e04931b3dde7817f871786ecfcd2.jpg) |
 | 粉呼一何怒，汗啼一何苦？ <br>⏱ 2022-03-29 14:11:51 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7074388399a7e04931b3dde7817f871786ecfcd2.jpg) |
 | 粉呼一何怒，汗啼一何苦？ <br>⏱ 2022-03-29 10:24:37 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b5f0cf51d82f82f6e16c6bbb8c71fbf10e38307f.jpg) |
