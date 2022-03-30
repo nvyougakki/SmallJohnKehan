@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 这就是你鸽掉的借口～如果当你重新来过～你会不会～ <br>⏱ 2022-03-30 18:43:03 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/832b6d3f3d21df03f1b93fd2946b5aaace7ccceb.jpg) |
 | 早起录音录了40分钟，正准备结束时，发现自己忘开麦了…… <br>⏱ 2022-03-30 09:09:54 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/832b6d3f3d21df03f1b93fd2946b5aaace7ccceb.jpg) |
 | 早起录音录了40分钟，正准备结束时，发现自己忘开麦了…… <br>⏱ 2022-03-30 09:04:42 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7074388399a7e04931b3dde7817f871786ecfcd2.jpg) |
 | 粉呼一何怒，汗啼一何苦？ <br>⏱ 2022-03-29 14:11:51 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7074388399a7e04931b3dde7817f871786ecfcd2.jpg) |
