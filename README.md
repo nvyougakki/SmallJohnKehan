@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 西突厥历史上曾经跟东罗马结盟一起进攻波斯，震撼我一整年，打破次元壁了属于是 <br>⏱ 2022-04-11 18:28:19 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/1bf56775e8906127d7056183479a50dd78d915f5.jpg) |
 | 诶呀诶呀不更新的日子我浑身就像有耗子在爬 <br>⏱ 2022-04-10 16:18:01 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/1bf56775e8906127d7056183479a50dd78d915f5.jpg) |
 | 如果我今年更新了，那今年岂不是不用再更新了？ <br>⏱ 2022-04-10 15:02:02 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/1bf56775e8906127d7056183479a50dd78d915f5.jpg) |
 | 奇葩小国将会在要更新的时候更新。 <br>⏱ 2022-04-10 12:10:43 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/1bf56775e8906127d7056183479a50dd78d915f5.jpg) |
