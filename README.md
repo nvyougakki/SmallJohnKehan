@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 小约翰搬家——鸽不住了 <br>⏱ 2022-04-15 08:18:02 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b96940064dc84272fdbc042dd916e93da10b574a.jpg) |
 | 学海无涯，鸽无止境 <br>⏱ 2022-04-14 14:51:38 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b96940064dc84272fdbc042dd916e93da10b574a.jpg) |
 | 学吧，太深了 <br>⏱ 2022-04-14 12:46:19 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b96940064dc84272fdbc042dd916e93da10b574a.jpg) |
 | 学吧，太深了 <br>⏱ 2022-04-14 11:25:57 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/4e9f51a92a5020a0860506b078621515964cfa6e.jpg) |
