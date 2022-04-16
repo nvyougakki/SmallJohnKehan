@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 只工作，不玩耍，聪明的约翰也变傻 <br>⏱ 2022-04-16 21:11:59 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/f141ea8293346d2c31bad95b67ab9cfa6e9378ff.jpg) |
 | 只工作，不玩耍，聪明的约翰也变傻 <br>⏱ 2022-04-16 15:16:28 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7cd61ce2bf80b30fe319df0ee29116bfc17525c4.jpg) |
 | 盯紧我的记忆消除器，告诉你，我昨天刚刚更新 <br>⏱ 2022-04-16 13:26:09 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7cd61ce2bf80b30fe319df0ee29116bfc17525c4.jpg) |
 | 对于小约翰的拖更，谁支持，谁反对？ <br>⏱ 2022-04-16 10:05:52 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7cd61ce2bf80b30fe319df0ee29116bfc17525c4.jpg) |
