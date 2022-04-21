@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 我拿什么和他比，他吃肯德基都不用看星期几。 <br>⏱ 2022-04-21 11:11:50 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/a8b88f75c8cd516e6b2ea6a480167b11be325f79.jpg) |
 | 小约翰明天会更新吗 <br>⏱ 2022-04-21 11:01:40 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/a8b88f75c8cd516e6b2ea6a480167b11be325f79.jpg) |
 | gswl——指鸽死我了 <br>⏱ 2022-04-20 22:00:49 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/a8b88f75c8cd516e6b2ea6a480167b11be325f79.jpg) |
 | gswl——指鸽死我了 <br>⏱ 2022-04-20 10:54:12 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/57e1717e44e8e4d5f165472f07498ced4c400847.jpg) |
