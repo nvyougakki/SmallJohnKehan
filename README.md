@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 游戏太难了，不好玩 <br>⏱ 2022-05-14 20:57:21 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/854da774caaeac7e75e1eaca637c24ae9137df0d.jpg) |
 | 买了个新游戏，美滋滋 <br>⏱ 2022-05-14 16:56:59 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/854da774caaeac7e75e1eaca637c24ae9137df0d.jpg) |
 | 皇牌空战7好玩吗？ <br>⏱ 2022-05-14 14:56:46 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/854da774caaeac7e75e1eaca637c24ae9137df0d.jpg) |
 | 皇牌空战7好玩吗？ <br>⏱ 2022-05-14 14:36:40 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/ae3a0842a526bfafa594236d9d18c95ea2589feb.jpg) |
