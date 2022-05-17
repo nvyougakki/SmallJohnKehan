@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 如果大家觉得弹幕变少了，可以在“设置”里关闭弹幕优选 <br>⏱ 2022-05-17 14:56:25 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7761abc60d4fa5a2c15548d2738d1d057c84aeca.jpg) |
 | 毕达鸽拉斯 <br>⏱ 2022-05-17 13:56:04 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7761abc60d4fa5a2c15548d2738d1d057c84aeca.jpg) |
 | 毕达鸽拉斯 <br>⏱ 2022-05-17 10:40:10 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/e6ce58f7f1c09e2d7fc58ef7db91df847b03ea14.jpg) |
 | 城头变换大鸽旗 <br>⏱ 2022-05-16 18:03:33 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/3d2ead082b13fc5bb399c2ee43c6a9bb296c9bc8.jpg) |
