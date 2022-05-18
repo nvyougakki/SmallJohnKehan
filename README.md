@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 如果大家觉得弹幕变少了，可以在“设置”里关闭弹幕优选 <br>⏱ 2022-05-18 10:33:50 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/650f77ba4b3867a015109fa7a2ad5c385f48268c.jpg) |
 | 如果大家觉得弹幕变少了，可以在“设置”里关闭弹幕优选 <br>⏱ 2022-05-17 14:56:25 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7761abc60d4fa5a2c15548d2738d1d057c84aeca.jpg) |
 | 毕达鸽拉斯 <br>⏱ 2022-05-17 13:56:04 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7761abc60d4fa5a2c15548d2738d1d057c84aeca.jpg) |
 | 毕达鸽拉斯 <br>⏱ 2022-05-17 10:40:10 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/e6ce58f7f1c09e2d7fc58ef7db91df847b03ea14.jpg) |
