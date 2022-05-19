@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 小约翰搬家——鸽不住了 <br>⏱ 2022-05-19 09:26:13 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/2026c2cb414b6c39c8cba1ecca35ea15ef3aa0e1.jpg) |
 | 小约翰搬家——鸽不住了 <br>⏱ 2022-05-18 15:59:44 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/ae3a0842a526bfafa594236d9d18c95ea2589feb.jpg) |
 | 如果大家觉得弹幕变少了，可以在“设置”里关闭弹幕优选 <br>⏱ 2022-05-18 15:49:30 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/ae3a0842a526bfafa594236d9d18c95ea2589feb.jpg) |
 | 如果大家觉得弹幕变少了，可以在“设置”里关闭弹幕优选 <br>⏱ 2022-05-18 11:54:07 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/91ad6d87b2044f69c8fd666046f0a0a922f2cbd1.jpg) |
