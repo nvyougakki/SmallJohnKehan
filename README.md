@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 原来今天是疯狂星期五 <br>⏱ 2022-05-20 10:08:43 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/2026c2cb414b6c39c8cba1ecca35ea15ef3aa0e1.jpg) |
 | 原来今天是疯狂星期四 <br>⏱ 2022-05-19 13:41:40 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/2026c2cb414b6c39c8cba1ecca35ea15ef3aa0e1.jpg) |
 | 小约翰搬家——鸽不住了 <br>⏱ 2022-05-19 09:26:13 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/2026c2cb414b6c39c8cba1ecca35ea15ef3aa0e1.jpg) |
 | 小约翰搬家——鸽不住了 <br>⏱ 2022-05-18 15:59:44 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/ae3a0842a526bfafa594236d9d18c95ea2589feb.jpg) |
