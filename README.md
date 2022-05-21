@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 惩罚自己加鸽三天 <br>⏱ 2022-05-21 17:47:07 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/0e6d1b53bb73051a620159cf122431bcb16f8175.jpg) |
 | 惩罚自己加鸽三天 <br>⏱ 2022-05-21 17:17:00 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/ffd23debdc4a95303f9818b8a6a689d20482fc88.jpg) |
 | 头像越粉，拖更越狠 <br>⏱ 2022-05-20 17:04:28 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/ffd23debdc4a95303f9818b8a6a689d20482fc88.jpg) |
 | 原来今天是疯狂星期五 <br>⏱ 2022-05-20 10:38:55 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/ffd23debdc4a95303f9818b8a6a689d20482fc88.jpg) |
