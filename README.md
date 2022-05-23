@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 樱桃小鸽子 <br>⏱ 2022-05-23 18:12:46 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/cebb097781ebc0406f80f4c129942a666b68caf9.jpg) |
 | 大鸽天下，以示庆贺 <br>⏱ 2022-05-23 09:01:43 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/5845a0570cfb6147ec4f1df8af793d56934233ad.jpg) |
 | 惩罚自己加鸽三天 <br>⏱ 2022-05-21 18:17:51 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/3cf66b76edcc2054438c28ebe5c3093022304052.jpg) |
 | 惩罚自己加鸽三天 <br>⏱ 2022-05-21 17:57:22 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/840458fccc0c4471e1312f398699bcda73b7d725.jpg) |
