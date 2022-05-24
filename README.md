@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 暗度陈仓式的拖更 <br>⏱ 2022-05-24 22:51:40 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/a1f795c6e11fd562b6d9fbdd2c9da92b1a708a0e.jpg) |
 | 报仇雪恨般的拖更 <br>⏱ 2022-05-24 17:40:55 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/a1f795c6e11fd562b6d9fbdd2c9da92b1a708a0e.jpg) |
 | 刚刚看到一个特别好笑的段子，不过签名里写不下，可惜了 <br>⏱ 2022-05-24 16:15:23 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/a1f795c6e11fd562b6d9fbdd2c9da92b1a708a0e.jpg) |
 | 刚刚看到一个特别好笑的段子，不过签名里写不下，可惜了 <br>⏱ 2022-05-24 12:49:46 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/78726439035c4182e1ad84dc3b1ee54b6a90ed66.jpg) |
