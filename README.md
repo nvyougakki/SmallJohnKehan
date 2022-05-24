@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 刚刚看到一个特别好笑的段子，不过签名里写不下，可惜了 <br>⏱ 2022-05-24 12:49:46 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/78726439035c4182e1ad84dc3b1ee54b6a90ed66.jpg) |
 | 刚刚看到一个特别好笑的段子，不过签名里写不下，可惜了 <br>⏱ 2022-05-23 23:38:16 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/cebb097781ebc0406f80f4c129942a666b68caf9.jpg) |
 | 樱桃小鸽子 <br>⏱ 2022-05-23 18:12:46 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/cebb097781ebc0406f80f4c129942a666b68caf9.jpg) |
 | 大鸽天下，以示庆贺 <br>⏱ 2022-05-23 09:01:43 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/5845a0570cfb6147ec4f1df8af793d56934233ad.jpg) |
