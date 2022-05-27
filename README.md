@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 玩累了，歇歇 <br>⏱ 2022-05-27 14:06:54 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/dd1e705666a2bf7236d0c28f16c05b55abc8d4f7.jpg) |
 | 努力肝稿中 <br>⏱ 2022-05-27 10:51:29 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/dd1e705666a2bf7236d0c28f16c05b55abc8d4f7.jpg) |
 | 这个人很良心，从来都不会鸽 <br>⏱ 2022-05-26 19:35:28 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/7a4cee171e0c122334ab943c6c0d0f4a1502be64.jpg) |
 | 这个人很良心，从来都不会鸽 <br>⏱ 2022-05-26 18:20:15 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/e42986aad5a93cc3ec39ba22993dabc680a6dfeb.jpg) |
