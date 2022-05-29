@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 石龙对石鼠，金银万万五，谁人能识破，买下通辽府。 <br>⏱ 2022-05-29 08:29:21 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b04c2bc49abc0f138f20781c74a23868f19e65b6.jpg) |
 | 下一期小国将在下一期更新时揭晓 <br>⏱ 2022-05-28 22:47:38 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b04c2bc49abc0f138f20781c74a23868f19e65b6.jpg) |
 | 偌大通辽，居然一个猜中的人都没有，可惜了 <br>⏱ 2022-05-28 12:00:50 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b04c2bc49abc0f138f20781c74a23868f19e65b6.jpg) |
 | 偌大通辽，居然一个猜中的人都没有，可惜了 <br>⏱ 2022-05-28 11:35:33 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/dd1e705666a2bf7236d0c28f16c05b55abc8d4f7.jpg) |
