@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 下一期更新时间将在下一期更新时揭晓 <br>⏱ 2022-06-01 13:05:35 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b586d90ad0d834c7ff0ffc4ee9452523668f75d8.jpg) |
 | 新视频有几处字幕错误，我改一下，大家稍安勿躁 <br>⏱ 2022-06-01 11:45:28 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b586d90ad0d834c7ff0ffc4ee9452523668f75d8.jpg) |
 |  <br>⏱ 2022-05-31 15:27:13 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b586d90ad0d834c7ff0ffc4ee9452523668f75d8.jpg) |
 | 大鸽结束，准备大更 <br>⏱ 2022-05-31 14:42:00 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/9e71b9e7a368d0fd77ab5c053d05ed41385b87fa.jpg) |
