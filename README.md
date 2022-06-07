@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 文曲星保佑大家考试顺利 <br>⏱ 2022-06-07 23:18:24 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/f8f5d699ef4b52762003d639ec7c6c9a428f3252.jpg) |
 | 别看了！该高考了！ <br>⏱ 2022-06-07 18:27:30 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/f8f5d699ef4b52762003d639ec7c6c9a428f3252.jpg) |
 | 别看了！该高考了！ <br>⏱ 2022-06-07 07:46:38 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/5a5ad5de9acff5b7a7fac9d43025f7e8604821c8.jpg) |
 | 大家端午节记得吃鸡蛋 <br>⏱ 2022-06-02 19:44:13 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/07fdfec842459f42a33bc87a1c601a10e3cdafad.jpg) |
