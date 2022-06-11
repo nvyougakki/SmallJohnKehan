@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 约翰船长 <br>⏱ 2022-06-11 21:16:46 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/8f40f6864faa58c733b5846096afa9173d679bf1.jpg) |
 | 今儿我鸽，明儿他鸽，将来不就总有人鸽了？ <br>⏱ 2022-06-10 14:51:03 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/33ec5eb97405b70ec714e9e172ef380782104686.jpg) |
 | 大有大的难处 <br>⏱ 2022-06-10 12:50:44 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/2e7a26c9bcfcb97026e76e530b3a5ac7118a4891.jpg) |
 | 翰氏家族 <br>⏱ 2022-06-09 17:54:15 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/4a91138acdd9fc7e1853785c3c8afa0dc0dd4078.jpg) |
