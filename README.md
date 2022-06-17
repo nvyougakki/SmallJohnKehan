@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 马上更了 <br>⏱ 2022-06-17 10:29:25 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/238f542af862682a005f0878cb33125dc61d743d.jpg) |
 | 疯狂星期五啦！ <br>⏱ 2022-06-17 09:13:57 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/238f542af862682a005f0878cb33125dc61d743d.jpg) |
 | 疯狂星期四啦！ <br>⏱ 2022-06-16 08:54:06 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/238f542af862682a005f0878cb33125dc61d743d.jpg) |
 | 快更了快更了 <br>⏱ 2022-06-15 20:53:00 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/80ef5e6a862188273cef7dbb4b68d27bb23456ba.jpg) |
