@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 通辽的大风呼呼吹～ <br>⏱ 2022-06-20 19:22:32 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/51275de3114f56aac783af1691f6e3e75fea45da.jpg) |
 | 下期更新内容与此头像有关 <br>⏱ 2022-06-20 09:35:46 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/51275de3114f56aac783af1691f6e3e75fea45da.jpg) |
 | 好热呀，夏天来了 <br>⏱ 2022-06-19 12:07:43 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/c621a56a7cca14be3c5403ee9fa3a1d5f99f856e.jpg) |
 | 今天是硬核狠人系列开始一周年 <br>⏱ 2022-06-19 08:22:22 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/c621a56a7cca14be3c5403ee9fa3a1d5f99f856e.jpg) |
