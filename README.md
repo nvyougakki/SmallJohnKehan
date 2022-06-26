@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 一招鲜，鸽遍天。 <br>⏱ 2022-06-26 15:32:16 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6edfb8a019969b3139009352c4ca658bc2a92bc6.jpg) |
 | 父老兄弟听我鸽 <br>⏱ 2022-06-25 22:31:17 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6edfb8a019969b3139009352c4ca658bc2a92bc6.jpg) |
 | 昨天已经更过了，歇歇 <br>⏱ 2022-06-25 11:45:29 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6edfb8a019969b3139009352c4ca658bc2a92bc6.jpg) |
 | 昨天已经更过了，歇歇 <br>⏱ 2022-06-25 09:05:23 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/31698440e5783e9d20467fbc7ba17a9d95f483eb.jpg) |
