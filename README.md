@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 非洲三大暴君的第五个人将要登场（指新建文件夹） <br>⏱ 2022-06-28 11:18:36 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/03d090b1c8dbe4e1fd49424e6b9da41541e7eef2.jpg) |
 | 非洲三大暴君的第五个人将要登场 <br>⏱ 2022-06-28 10:13:12 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/03d090b1c8dbe4e1fd49424e6b9da41541e7eef2.jpg) |
 | 一招鲜，鸽遍天。 <br>⏱ 2022-06-27 07:33:23 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/03d090b1c8dbe4e1fd49424e6b9da41541e7eef2.jpg) |
 | 一招鲜，鸽遍天。 <br>⏱ 2022-06-26 15:32:16 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6edfb8a019969b3139009352c4ca658bc2a92bc6.jpg) |
