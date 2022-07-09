@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 斯里兰卡总统离开了科伦坡 <br>⏱ 2022-07-09 16:37:51 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/262b288a7ca969281aaf22e015d75f719e8bcbce.jpg) |
 | 镜像拉姆即将登场 <br>⏱ 2022-07-09 14:02:37 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/262b288a7ca969281aaf22e015d75f719e8bcbce.jpg) |
 | 镜像拉姆即将登场 <br>⏱ 2022-07-09 07:17:02 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/d36a6a5eea9d1fa3a1a0ffdbaaca26c77a978171.jpg) |
 | 镜像拉姆即将登场 <br>⏱ 2022-07-09 07:01:36 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/79b032eb3bf94d3b3d8e2f42eece2ec8b5e2668a.jpg) |
