@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 是主页有bug，大家稍安勿躁哈 <br>⏱ 2022-07-13 18:56:13 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fd55a3e819fdf3eacbd6762e6b0c709ac1c9e767.jpg) |
 | 四百五十三万关注，每个月抽一百个，只需要区区3775年就能都抽个遍了呀！ <br>⏱ 2022-07-13 17:41:04 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fd55a3e819fdf3eacbd6762e6b0c709ac1c9e767.jpg) |
 | 蒂凡鸽的早餐 <br>⏱ 2022-07-13 08:35:07 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fd55a3e819fdf3eacbd6762e6b0c709ac1c9e767.jpg) |
 | 会更的会更的 <br>⏱ 2022-07-13 08:30:00 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fd55a3e819fdf3eacbd6762e6b0c709ac1c9e767.jpg) |
