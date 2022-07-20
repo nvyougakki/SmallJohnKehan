@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 有了肯德基，生活好滋味 <br>⏱ 2022-07-20 18:10:41 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/b49dd5720fc15ddf5567e2b6ef18e4761e1211b6.jpg) |
 | 通辽无道鼠当权，常恰还想要三连，不如随我反了去，高呼我主星野源！ <br>⏱ 2022-07-20 13:25:22 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/d6ff9cd6fc4a63fe6f069455c2735ae77008c251.jpg) |
 | 我发现一首好歌，将来用在视频里 <br>⏱ 2022-07-20 11:00:00 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/d6ff9cd6fc4a63fe6f069455c2735ae77008c251.jpg) |
 | 我发现一首好歌，将来用在视频里 <br>⏱ 2022-07-20 07:29:44 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/26eceff1f603d1f440e811f128a8cc282fe968f5.jpg) |
