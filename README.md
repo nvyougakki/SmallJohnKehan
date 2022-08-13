@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 卖雪糕啦！ <br>⏱ 2022-08-13 17:25:47 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/55f2b8a305caff75132ac277aab1440e99e757d6.jpg) |
 | 肝稿中，勿扰 <br>⏱ 2022-08-13 09:49:55 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/55f2b8a305caff75132ac277aab1440e99e757d6.jpg) |
 | 肝稿中，勿扰 <br>⏱ 2022-08-13 09:44:46 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/9a1f33740e11b2ee6e4640ac9fc0038d5564b12b.jpg) |
 | 偷袭失败，准备拖更 <br>⏱ 2022-08-12 11:41:00 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/9a1f33740e11b2ee6e4640ac9fc0038d5564b12b.jpg) |
