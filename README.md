@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 乐事新出的铜锅涮口味是真的好吃 <br>⏱ 2022-08-21 20:07:48 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/9c0dbbf3dfd54687062500378da17ca6828be061.jpg) |
 | 我不时尚吗？难道我不时尚吗？！ <br>⏱ 2022-08-21 15:42:05 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/9c0dbbf3dfd54687062500378da17ca6828be061.jpg) |
 | 下点雨啦终于 <br>⏱ 2022-08-20 17:58:42 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/75a892ec7e10c0fb4f01adace7705f34b526a6b0.jpg) |
 | 疯狂星期五会更新吗？ <br>⏱ 2022-08-19 12:26:09 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/75a892ec7e10c0fb4f01adace7705f34b526a6b0.jpg) |
