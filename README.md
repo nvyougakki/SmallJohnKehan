@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 下一期就是新系列了 <br>⏱ 2022-08-24 23:14:26 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/cb488ea970a5a36d38fd7fa98bad06e9a9664126.jpg) |
 | 下一期就是新系列了 <br>⏱ 2022-08-24 22:24:11 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6cbddf292f130d633461d2406469cf118dcddc0a.jpg) |
 | 南京凉快了！凉快了！！ <br>⏱ 2022-08-23 19:15:08 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6cbddf292f130d633461d2406469cf118dcddc0a.jpg) |
 | 南京的高温就要结束啦！ <br>⏱ 2022-08-23 12:09:06 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6cbddf292f130d633461d2406469cf118dcddc0a.jpg) |
