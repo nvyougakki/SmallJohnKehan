@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 下一期就是新系列了 <br>⏱ 2022-08-24 22:24:11 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6cbddf292f130d633461d2406469cf118dcddc0a.jpg) |
 | 南京凉快了！凉快了！！ <br>⏱ 2022-08-23 19:15:08 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6cbddf292f130d633461d2406469cf118dcddc0a.jpg) |
 | 南京的高温就要结束啦！ <br>⏱ 2022-08-23 12:09:06 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6cbddf292f130d633461d2406469cf118dcddc0a.jpg) |
 | 乐事新出的铜锅涮口味是真的好吃 <br>⏱ 2022-08-23 11:53:53 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6cbddf292f130d633461d2406469cf118dcddc0a.jpg) |
