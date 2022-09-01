@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 我已到达通辽，感觉良好 <br>⏱ 2022-09-01 10:08:35 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fa4b2bee5e1d7a55e5ede514d9dc702b7ee64d6a.jpg) |
 |  <br>⏱ 2022-08-31 19:46:36 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/8c36229835a88655ba13e8274090a25cff707895.jpg) |
 | 你甚至不愿意叫我一声鸽宗 <br>⏱ 2022-08-30 06:03:24 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/d545080a967716c91e6b1ef648b68053639a7901.jpg) |
 | 下一期小国视频，将串联起奇葩小国的半壁江山 <br>⏱ 2022-08-28 23:59:41 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/f8eef3eb4bbcb5d1e3a4899fe19a7fc61b796c7a.jpg) |
