@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 今天将继续偷袭式更新 <br>⏱ 2022-09-02 09:16:01 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fa4b2bee5e1d7a55e5ede514d9dc702b7ee64d6a.jpg) |
 | 我已到达通辽，感觉不太良好，犯鼻炎了(／_＼) <br>⏱ 2022-09-01 20:09:29 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fa4b2bee5e1d7a55e5ede514d9dc702b7ee64d6a.jpg) |
 | 我已到达通辽，感觉良好 <br>⏱ 2022-09-01 10:08:35 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/fa4b2bee5e1d7a55e5ede514d9dc702b7ee64d6a.jpg) |
 |  <br>⏱ 2022-08-31 19:46:36 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/8c36229835a88655ba13e8274090a25cff707895.jpg) |
