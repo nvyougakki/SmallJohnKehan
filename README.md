@@ -5,6 +5,7 @@
 
 | 签名                         |                        头像                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
+| 偷袭成功！ <br>⏱ 2022-09-04 12:21:01 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/1ab4683341938e5a6f558226c68d90b77dc32a25.jpg) |
 | 偷袭成功！ <br>⏱ 2022-09-03 12:19:20 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6e51938e4d0c036231940d006c7282f9453bc851.jpg) |
 | 今日偷袭失败，明日继续偷袭 <br>⏱ 2022-09-02 17:47:43 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/6e51938e4d0c036231940d006c7282f9453bc851.jpg) |
 | 今日偷袭失败，明日继续偷袭 <br>⏱ 2022-09-02 16:47:24 | ![image](https://raw.githubusercontent.com/nvyougakki/SmallJohnKehan/main/imgs/3f6a216d348e1762985aceacdb126a1d02fb5ec2.jpg) |
